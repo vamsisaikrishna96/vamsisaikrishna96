@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Vamsi Sai Krishna</h1>
-<h3 align="center">A Full stack software Engineer with half a decade of experience in developing efficient web applications using best practices and top code optimization techniques. Have a website development idea? Intersted in tech talk / discussions? Let's connect.</h3>
+<h1 align="left">Hi 👋, I'm Vamsi Sai Krishna</h1>
+<h3 align="left">A Full stack software Engineer with half a decade of experience in developing efficient web applications using best practices and top code optimization techniques. Have a website development idea? Intersted in tech talk / discussions? Let's connect.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vamsisaikrishna96&label=Profile%20views&color=0e75b6&style=flat" alt="vamsisaikrishna96" /> </p>
 
 - 🔭 I’m currently working on **Open AI image generator tool**
 
-- 💬 Ask me about **anything related to web development from planning to deployment**
+- 💬 Ask me about **anything related to web development from Planning to Deployment**
 
 - 📫 How to reach me **vamsisaikrishna.y@gmail.com**
 
